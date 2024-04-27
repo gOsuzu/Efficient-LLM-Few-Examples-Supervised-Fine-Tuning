@@ -9,6 +9,7 @@ In-context learning (ICL) in Large Language Models (LLMs) has been shown to be o
 - Context Distillation (CD),
 - Context Distillation with Low-Ranked Adaptation (LoRA) and
 - Selective Context Distillation (SCD) as our novel approach.
+
 We compare them to ICL in terms of accuracy for both in-domain and out-of-domain questions.
 
 

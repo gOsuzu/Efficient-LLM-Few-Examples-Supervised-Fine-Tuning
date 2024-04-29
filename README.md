@@ -14,7 +14,7 @@ We compare them to ICL in terms of accuracy for both in-domain and out-of-domain
 
 
 ## Project Member
-- Javier Nieves Remacha
-- Go Suzui
-- Nitesh Agarwal
-- Gabriel Martínez Maza
+- Javier Nieves Remacha (GitHub Account Name: Javier)
+- Go Suzui (GitHub Account Name: gOsuzu)
+- Nitesh Agarwal (GitHub Account Name: phantom002)
+- Gabriel Martínez Maza (Git Hub Account Name: GarbelMartinez)

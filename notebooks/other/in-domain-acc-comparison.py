@@ -36,13 +36,13 @@ point = sns.pointplot(
 plt.ylabel("In-domain accuracy (%)")
 
 # rename x-axis labels
-plt.xticks([0, 1, 2, 3, 4], ['ICL', 'CD', 'Selective CD', 'Virtual token CD FT', 'CD-LoRA'])
+plt.xticks([0, 1, 2, 3, 4], ['CD', 'Selective CD', 'Virtual Token CD FT', 'CD-LoRA', 'ICL'])
 
 
 handles, labels = ax.get_legend_handles_labels()
 unique_labels = labels[:int(len(labels)/2)]  # Assuming labels are duplicated
 unique_handles = handles[:int(len(handles)/2)]  # Adjust handles similarly
-ax.legend(unique_handles, unique_labels, title="Model", loc="upper right", ncol=4, frameon=True)
+ax.legend(unique_handles, unique_labels, title="Model", loc="upper left", ncol=4, frameon=True)
 
 plt.ylim(50, 70)
 plt.rcParams["figure.dpi"] = 1000 

@@ -17,10 +17,10 @@ We compare them to ICL in terms of accuracy for both in-domain and out-of-domain
 
 
 ## Project Member
-- Javier Nieves Remacha (GitHub Account Name: jnremachaGH)
-- Go Suzui (GitHub Account Name: gOsuzu)
-- Nitesh Agarwal (GitHub Account Name: phantom002)
-- Gabriel Martínez Maza (Git Hub Account Name: GarbelMartinez)
+- Javier Nieves Remacha (GitHub Account Name: jnremachaGH, GT Email Address: jremacha3@gatech.edu)
+- Go Suzui (GitHub Account Name: gOsuzu, GT Email Address: gsuzui3@gatech.edu)
+- Nitesh Agarwal (GitHub Account Name: phantom002, GT Email Address: nagarwal85@gatech.edu)
+- Gabriel Martínez Maza (Git Hub Account Name: GarbelMartinez, GT Email Address: gmaza3@gatech.edu)
 
 ## Project Structure
 `notebooks` folder contains ipynb used for this project. `results` folder contains the summary excel file of our results, and plot of in-domain accuracies of ICL and CDs with code and data.

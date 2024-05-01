@@ -1,6 +1,6 @@
 # Efficient-LLM-Few-Examples-Supervised-Fine-Tuning
 
-This is a final porject repository for Goergia Tech CS7643 (Spring 2024). 
+This is a final project repository for Georgia Tech CS7643 (Spring 2024). 
 
 Because we need GPU for this project, we used Google Colab to run our code. 
 
